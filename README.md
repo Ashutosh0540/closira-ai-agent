@@ -16,8 +16,16 @@ The system simulates a real SMB customer-support workflow using OpenAI-compatibl
 - Conversation state management
 - Logging and observability
 - Multi-stage workflow orchestration
+- Interactive Streamlit workflow dashboard
+- Live workflow-stage visualization
+- Real-time escalation monitoring
+- SOP gap tracking UI
 
----
+# UI Preview
+
+## AI Workflow Dashboard
+
+![Workflow Dashboard](screenshots/dashboard.png)
 
 # Workflow Architecture
 

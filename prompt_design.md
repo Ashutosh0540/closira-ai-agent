@@ -185,11 +185,23 @@ The workflow includes:
 
 These behaviors were prioritized to create safer SMB customer interactions.
 
+# UI and Workflow Visualization
+
+A lightweight Streamlit dashboard was added to improve workflow observability and demonstrate orchestration behavior visually.
+
+The dashboard displays:
+- live workflow stages
+- escalation state
+- qualification data
+- SOP gaps
+- structured summaries
+
+The UI layer was intentionally kept lightweight to focus development effort on orchestration logic and AI workflow reliability rather than frontend complexity.
+
 # Known Limitations
 
 Current limitations:
 
-* CLI-only interface
 * no persistent database
 * no CRM integration
 * no long-term memory across sessions
