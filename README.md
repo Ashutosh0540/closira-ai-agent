@@ -29,6 +29,8 @@ The system simulates a real SMB customer-support workflow using OpenAI-compatibl
 
 # Workflow Architecture
 
+![Workflow Architecture](screenshots/architecture.png)
+
 The workflow is divided into four stages:
 
 ## 1. FAQ Answering
